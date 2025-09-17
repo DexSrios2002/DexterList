@@ -1,0 +1,290 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Nicaragua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="NICARAGUA",NIC | Canal 10
+https://d3pkdydaroq3im.cloudfront.net/original.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 10 Resp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="NICARAGUA",NIC | Canal 10
+http://195.66.210.10:80/MauriSesin/TZAKG/12873
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="MX | TELEVISA MONTERREY" tvg-logo="https://marte.com.mx/wp-content/uploads/logo14.png" group-title="MÉXICO",MX | TELEVISA MONTERREY
+http://195.66.210.10:80/MauriSesin/TZAKG/67424
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX | TL NOVELAS" tvg-logo="https://i.imgur.com/1lv5hkr.png" group-title="MÉXICO",MX | TL NOVELAS
+http://195.66.210.10:80/MauriSesin/TZAKG/108594
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX | TL NOVELAS SD" tvg-logo="https://i.imgur.com/1lv5hkr.png" group-title="MÉXICO",MX | TL NOVELAS SD
+http://195.66.210.10:80/MauriSesin/TZAKG/108249
+#EXTINF:-1 tvg-id="" tvg-name="NI | Canal 12" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048" group-title="NICARAGUA",NI | Canal 12
+http://195.66.210.10:80/MauriSesin/TZAKG/514149
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 13 Viva Nicaragua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA",NIC | Canal 13 Viva Nicaragua
+http://195.66.210.10:80/MauriSesin/TZAKG/41608
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 14" tvg-logo="https://www.vostv.com.ni/static/images/logo-footer.png" group-title="NICARAGUA",NIC | Canal 14
+http://195.66.210.10:80/MauriSesin/TZAKG/12875
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 2" tvg-logo="https://canal2tv.com/wp-content/uploads/2020/06/LOGOB-e1592297058783.png" group-title="NICARAGUA",NIC | Canal 2
+http://195.66.210.10:80/MauriSesin/TZAKG/12876
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_4_NIC.png" group-title="NICARAGUA",NIC | Canal 4
+http://195.66.210.10:80/MauriSesin/TZAKG/12877
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" group-title="NICARAGUA",NIC | Canal 6
+http://195.66.210.10:80/MauriSesin/TZAKG/12878
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 8" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="NICARAGUA",NIC | Canal 8
+http://195.66.210.10:80/MauriSesin/TZAKG/12879
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="NOT |  WEATHER CHANNEL ESPAÑOL" tvg-logo="https://cdn.mos.cms.futurecdn.net/BcCGgEjE8TKxMAN9HZDJ8e-1200-80.png" group-title="NOTICIAS",NOT |  WEATHER CHANNEL ESPAÑOL
+http://195.66.210.10:80/MauriSesin/TZAKG/41904
+#EXTINF:-1 tvg-id="" tvg-name="NOT | CNN EN ESPAÑOL" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-en-espanol-logo-png-transparent.png" group-title="NOTICIAS",NOT | CNN EN ESPAÑOL
+http://195.66.210.10:80/MauriSesin/TZAKG/53068
+#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/History_En_Espanol_0.png" group-title="CULTURA",CUL | HISTORY EN ESPAÑOL
+http://195.66.210.10:80/MauriSesin/TZAKG/610874
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="CULT | Discovery Channel" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="USA CULTURE ⭐️",CULT | Discovery Channel
+http://195.66.210.10:80/MauriSesin/TZAKG/36463
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="CULT | Discovery Family" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/507.png" group-title="USA CULTURE ⭐️",CULT | Discovery Family
+http://195.66.210.10:80/MauriSesin/TZAKG/36464
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="CULT | Discovery Life" tvg-logo="data:image/png;base64,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" group-title="USA CULTURE ⭐️",CULT | Discovery Life
+http://195.66.210.10:80/MauriSesin/TZAKG/36465
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="CULT | Discovery Science SD" tvg-logo="https://static.epg.best/br/DiscoveryScience.br.png" group-title="USA CULTURE ⭐️",CULT | Discovery Science SD
+http://195.66.210.10:80/MauriSesin/TZAKG/53222
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="CULT | HGTV" tvg-logo="" group-title="USA CULTURE ⭐️",CULT | HGTV
+http://195.66.210.10:80/MauriSesin/TZAKG/48084
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="CULT | History 2 HD" tvg-logo="http://tvstar.live:8880/chimg/3355815778.png" group-title="USA CULTURE ⭐️",CULT | History 2 HD
+http://195.66.210.10:80/MauriSesin/TZAKG/218907
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="CULT | Investigation Discovery" tvg-logo="https://tmsimg.fancybits.co/assets/s16615_h3_aa.png" group-title="USA CULTURE ⭐️",CULT | Investigation Discovery
+http://195.66.210.10:80/MauriSesin/TZAKG/36467
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="CULT | LifeTime" tvg-logo="http://tvgolatino.com:8080/images/331ed07e7de0e7b5866cc1af25123d5b.png" group-title="USA CULTURE ⭐️",CULT | LifeTime
+http://195.66.210.10:80/MauriSesin/TZAKG/54234
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="CULT | NAT GEO" tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="USA CULTURE ⭐️",CULT | NAT GEO
+http://195.66.210.10:80/MauriSesin/TZAKG/53812
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="CULT | NAT GEO WILD" tvg-logo="https://static.epg.best/br/NatGeoWild.br.png" group-title="USA CULTURE ⭐️",CULT | NAT GEO WILD
+http://195.66.210.10:80/MauriSesin/TZAKG/53185
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="CULT | NAT GEO WILD HD" tvg-logo="https://static.epg.best/br/NatGeoWild.br.png" group-title="USA CULTURE ⭐️",CULT | NAT GEO WILD HD
+http://195.66.210.10:80/MauriSesin/TZAKG/165691
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="CULT | Smithsonian Channel" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/smithsonian_c.png" group-title="USA CULTURE ⭐️",CULT | Smithsonian Channel
+http://195.66.210.10:80/MauriSesin/TZAKG/10798
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="KD | Cartoon Network" tvg-logo="https://tmsimg.fancybits.co/assets/s12131_ll_h3_aa.png" group-title="USA KIDS",KD | Cartoon Network
+http://195.66.210.10:80/MauriSesin/TZAKG/36448
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="KD | Cartoon Network EAST" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png" group-title="USA KIDS",KD | Cartoon Network EAST
+http://195.66.210.10:80/MauriSesin/TZAKG/108646
+#EXTINF:-1 tvg-id="cartoonnetworkadultswim.us" tvg-name="KD | Cartoon Network WEST" tvg-logo="http://tvgolatino.com:8080/images/ec73f63752e1524c0000e3cb780fbe88.png" group-title="USA KIDS",KD | Cartoon Network WEST
+http://195.66.210.10:80/MauriSesin/TZAKG/108647
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="KD | Disney Channel" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" group-title="USA KIDS",KD | Disney Channel
+http://195.66.210.10:80/MauriSesin/TZAKG/36449
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="KD | DISNEY CHANNEL EAST" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" group-title="USA KIDS",KD | DISNEY CHANNEL EAST
+http://195.66.210.10:80/MauriSesin/TZAKG/181154
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="KD | DISNEY JUNIOR" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png" group-title="USA KIDS",KD | DISNEY JUNIOR
+http://195.66.210.10:80/MauriSesin/TZAKG/181155
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="KD | Disney XD" tvg-logo="https://tmsimg.fancybits.co/assets/s18279_ll_h3_aa.png" group-title="USA KIDS",KD | Disney XD
+http://195.66.210.10:80/MauriSesin/TZAKG/36451
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="KD | Nick" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="USA KIDS",KD | Nick
+http://195.66.210.10:80/MauriSesin/TZAKG/36444
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="KD | Nick JR WEST" tvg-logo="https://static.epg.best/ee/NickJr.ee.png" group-title="USA KIDS",KD | Nick JR WEST
+http://195.66.210.10:80/MauriSesin/TZAKG/276197
+#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="KD | Nick Music" tvg-logo="http://tvgolatino.com:8080/images/733cb00a7d4db6734d3072c11a08b672.png" group-title="USA KIDS",KD | Nick Music
+http://195.66.210.10:80/MauriSesin/TZAKG/276212
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="KD | Nicktoons" tvg-logo="https://static.epg.best/de/Nicktoons.de.png" group-title="USA KIDS",KD | Nicktoons
+http://195.66.210.10:80/MauriSesin/TZAKG/276198
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="KD | PBS KIDS" tvg-logo="https://p.kindpng.com/picc/s/716-7160970_direct-pbs-kids-hd-png-download.png" group-title="USA KIDS",KD | PBS KIDS
+http://195.66.210.10:80/MauriSesin/TZAKG/48628
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="KD | Universal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Universal_Kids_Logo.png" group-title="USA KIDS",KD | Universal Kids
+http://195.66.210.10:80/MauriSesin/TZAKG/36453
+#EXTINF:-1 tvg-id="" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/155px-TNT_TV_logo.svg.png" group-title="USA  ⭐️PREMIUM⭐️",USA | TNT
+http://195.66.210.10:80/MauriSesin/TZAKG/481728
+#EXTINF:-1 tvg-id="" tvg-name="USA | TNT East US" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png" group-title="USA  ⭐️PREMIUM⭐️",USA | TNT East US
+http://195.66.210.10:80/MauriSesin/TZAKG/481801
+#EXTINF:-1 tvg-id="" tvg-name="USA | TNT UHD" tvg-logo="http://apkip.tv/logos/USA/TNT.us.png" group-title="USA  ⭐️PREMIUM⭐️",USA | TNT UHD
+http://195.66.210.10:80/MauriSesin/TZAKG/481982
+#EXTINF:-1 tvg-id="" tvg-name="US:  AMC HD" tvg-logo="http://tvstar.live:8880/chimg/5344651753.png" group-title="USA PRUEBA 2",US:  AMC HD
+http://195.66.210.10:80/MauriSesin/TZAKG/218790
+#EXTINF:-1 tvg-id="" tvg-name="US:  AWE Channel" tvg-logo="http://tvstar.live:8880/chimg/4738480343.png" group-title="USA PRUEBA 2",US:  AWE Channel
+http://195.66.210.10:80/MauriSesin/TZAKG/218722
+#EXTINF:-1 tvg-id="" tvg-name="US:  BBC America HD" tvg-logo="http://tvstar.live:8880/chimg/6381322247.png" group-title="USA PRUEBA 2",US:  BBC America HD
+http://195.66.210.10:80/MauriSesin/TZAKG/218674
+#EXTINF:-1 tvg-id="" tvg-name="US:  beIN Sports 7 HD" tvg-logo="http://tvstar.live:8880/chimg/6933799067.png" group-title="USA PRUEBA 2",US:  beIN Sports 7 HD
+http://195.66.210.10:80/MauriSesin/TZAKG/218669
+#EXTINF:-1 tvg-id="" tvg-name="US:  BeIN SPORTS HD" tvg-logo="http://tvstar.live:8880/chimg/7025470360.png" group-title="USA PRUEBA 2",US:  BeIN SPORTS HD
+http://195.66.210.10:80/MauriSesin/TZAKG/218764
+http://195.66.210.10:80/MauriSesin/TZAKG/576532
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | HOME & HEALTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="ZONA IZZI",IZZI | HOME & HEALTH
+http://195.66.210.10:80/MauriSesin/TZAKG/576533
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="ZONA IZZI",IZZI | IMAGEN TV
+http://195.66.210.10:80/MauriSesin/TZAKG/576534
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | INGENIO TV" tvg-logo="https://agronoticias.com.mx/wp-content/uploads/2020/06/LOGO-IngenioTV.png" group-title="ZONA IZZI",IZZI | INGENIO TV
+http://195.66.210.10:80/MauriSesin/TZAKG/576535
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | JUSTICIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png" group-title="ZONA IZZI",IZZI | JUSTICIA TV
+http://195.66.210.10:80/MauriSesin/TZAKG/576536
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="ZONA IZZI",IZZI | LAS ESTRELLAS
+http://195.66.210.10:80/MauriSesin/TZAKG/576537
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | MILENIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png" group-title="ZONA IZZI",IZZI | MILENIO
+http://195.66.210.10:80/MauriSesin/TZAKG/576538
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | MULTIMEDIOS PLUS" tvg-logo="https://multimediosplus.com/wp-content/uploads/2021/07/AF_Logo_Mulmedios-Plus_color_2_Mesa-de-trabajo-1-copia-8_Mesa-de-trabajo-1-copia-8-1.png" group-title="ZONA IZZI",IZZI | MULTIMEDIOS PLUS
+http://195.66.210.10:80/MauriSesin/TZAKG/576539
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ZONA IZZI",IZZI | NICK
+http://195.66.210.10:80/MauriSesin/TZAKG/576540
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="ZONA IZZI",IZZI | NICK JR
+http://195.66.210.10:80/MauriSesin/TZAKG/576541
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | ONCE TV" tvg-logo="https://seeklogo.com/images/O/Once_TV_Mexico-logo-A45A22DB23-seeklogo.com.png" group-title="ZONA IZZI",IZZI | ONCE TV
+http://195.66.210.10:80/MauriSesin/TZAKG/576542
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | PARAMOUNT" tvg-logo="https://w7.pngwing.com/pngs/165/577/png-transparent-paramount-s-paramount-network-logo-viacom-media-networks-paramount-television-network-miscellaneous-television-blue-thumbnail.png" group-title="ZONA IZZI",IZZI | PARAMOUNT
+http://195.66.210.10:80/MauriSesin/TZAKG/576543
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | PX SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/PXSPT.svg/revision/latest/scale-to-width-down/300?cb=20210222013123&path-prefix=es" group-title="ZONA IZZI",IZZI | PX SPORTS
+http://195.66.210.10:80/MauriSesin/TZAKG/576544
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | SONY MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest/scale-to-width-down/1200?cb=20190917082854" group-title="ZONA IZZI",IZZI | SONY MOVIES
+http://195.66.210.10:80/MauriSesin/TZAKG/576545
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | STAR CHANNEL" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="ZONA IZZI",IZZI | STAR CHANNEL
+http://195.66.210.10:80/MauriSesin/TZAKG/576546
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | TELE FÓRMULA" tvg-logo="https://i.pinimg.com/originals/40/f9/b0/40f9b09c9ef5cd2f43f5a6c1bb1248e5.png" group-title="ZONA IZZI",IZZI | TELE FÓRMULA
+http://195.66.210.10:80/MauriSesin/TZAKG/576547
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="ZONA IZZI",IZZI | TELEMUNDO
+http://195.66.210.10:80/MauriSesin/TZAKG/576548
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | TELEVISA MTY" tvg-logo="https://www.campusmovil.com.mx/wp-content/uploads/2020/08/Televisa-MTY.png" group-title="ZONA IZZI",IZZI | TELEVISA MTY
+http://195.66.210.10:80/MauriSesin/TZAKG/576549
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="ZONA IZZI",IZZI | TLC
+http://195.66.210.10:80/MauriSesin/TZAKG/576550
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | UNICABLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es" group-title="ZONA IZZI",IZZI | UNICABLE
+http://195.66.210.10:80/MauriSesin/TZAKG/576552
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="ZONA IZZI",IZZI | UNIVERSAL TV
+http://195.66.210.10:80/MauriSesin/TZAKG/576553
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="ZONA IZZI",IZZI | UNIVISION
+http://195.66.210.10:80/MauriSesin/TZAKG/576554
+#EXTINF:-1 tvg-id="" tvg-name="IZZI | WARNER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest/scale-to-width-down/200?cb=20191207183909" group-title="ZONA IZZI",IZZI | WARNER
+http://195.66.210.10:80/MauriSesin/TZAKG/576555
+#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="VIX | ADN 40" tvg-logo="http://www.tmsimg.com/assets/s15384_ll_h3_ab.png" group-title="ZONA VIX",VIX | ADN 40
+http://195.66.210.10:80/MauriSesin/TZAKG/576557
+#EXTINF:-1 tvg-id="" tvg-name="VIX | ADRENALINA SPORTS" tvg-logo="http://www.tmsimg.com/assets/s83162_ll_h3_ad.png" group-title="ZONA VIX",VIX | ADRENALINA SPORTS
+http://195.66.210.10:80/MauriSesin/TZAKG/576558
+#EXTINF:-1 tvg-id="" tvg-name="VIX | AZTECA CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="ZONA VIX",VIX | AZTECA CINEMA
+http://195.66.210.10:80/MauriSesin/TZAKG/576562
+#EXTINF:-1 tvg-id="" tvg-name="VIX | REINO INFANTIL" tvg-logo="https://images.justwatch.com/poster/307696042/s718/as-cancoes-animadas-do-reino-infantil.jpg" group-title="ZONA VIX",VIX | REINO INFANTIL
+http://195.66.210.10:80/MauriSesin/TZAKG/576579
+#EXTINF:-1 tvg-id="" tvg-name="VIX | TL NOVELAS" tvg-logo="http://www.tmsimg.com/assets/s74550_ll_h3_ab.png" group-title="ZONA VIX",VIX | TL NOVELAS
+http://195.66.210.10:80/MauriSesin/TZAKG/576584
+#EXTINF:-1 tvg-id="" tvg-name="VIX | UNICABLE" tvg-logo="http://www.tmsimg.com/assets/s16521_ll_h3_ab.png" group-title="ZONA VIX",VIX | UNICABLE
+http://195.66.210.10:80/MauriSesin/TZAKG/576586
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX SPORTS 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/ViX_Logo.png" group-title="ZONA VIX",VIX | VIX SPORTS 10
+http://195.66.210.10:80/MauriSesin/TZAKG/576596
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX SPORTS 13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/ViX_Logo.png" group-title="ZONA VIX",VIX | VIX SPORTS 13
+http://195.66.210.10:80/MauriSesin/TZAKG/576598
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX SPORTS 14" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/ViX_Logo.png" group-title="ZONA VIX",VIX | VIX SPORTS 14
+http://195.66.210.10:80/MauriSesin/TZAKG/576599
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="ZONA VIX",VIX | VIX SPORTS 6
+http://195.66.210.10:80/MauriSesin/TZAKG/576588
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/ViX_Logo.png" group-title="ZONA VIX",VIX | VIX SPORTS 7
+http://195.66.210.10:80/MauriSesin/TZAKG/576591
+#EXTINF:-1 tvg-id="" tvg-name="VIX | VIX SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/ViX_Logo.png" group-title="ZONA VIX",VIX | VIX SPORTS 8
+http://195.66.210.10:80/MauriSesin/TZAKG/576593
+#EXTINF:-1 tvg-id="" tvg-name="VIX | ZONA TUDN" tvg-logo="https://pbs.twimg.com/profile_images/1790490374240088064/V3eTP4qo_400x400.jpg" group-title="ZONA VIX",VIX | ZONA TUDN
+http://195.66.210.10:80/MauriSesin/TZAKG/576587
+#EXTINF:-1 tvg-id="" tvg-name="DEP | CALIENTE TV" tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh" group-title="DEPORTES",DEP | CALIENTE TV
+http://195.66.210.10:80/MauriSesin/TZAKG/558709
+#EXTINF:-1 tvg-id="espn.deportes.mx" tvg-name="DEP | ESPN DEPORTES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES",DEP | ESPN DEPORTES SD
+http://195.66.210.10:80/MauriSesin/TZAKG/54094
+#EXTINF:-1 tvg-id="tudnu.us" tvg-name="TUD  | TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD  | TUDN USA
+http://195.66.210.10:80/MauriSesin/TZAKG/166029
+#EXTINF:-1 tvg-id="" tvg-name="TUD | TUDN MEX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | TUDN MEX SD
+http://195.66.210.10:80/MauriSesin/TZAKG/218637
+#EXTINF:-1 tvg-id="" tvg-name="TUD | TUDN MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | TUDN MX HD
+http://195.66.210.10:80/MauriSesin/TZAKG/456663
+#EXTINF:-1 tvg-id="tu.deportes.network.mexico.cr" tvg-name="TUD | TUDN USA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | TUDN USA FHD
+http://195.66.210.10:80/MauriSesin/TZAKG/242045
+#EXTINF:-1 tvg-id="tu.deportes.network.u.s.mx" tvg-name="TUD | TUDN USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | TUDN USA HD
+http://195.66.210.10:80/MauriSesin/TZAKG/185148
+#EXTINF:-1 tvg-id="" tvg-name="TUD | ZONA TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | ZONA TUDN
+http://195.66.210.10:80/MauriSesin/TZAKG/456662
+#EXTINF:-1 tvg-id="" tvg-name="TUD | ZONA TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | ZONA TUDN USA
+http://195.66.210.10:80/MauriSesin/TZAKG/456664
+#EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN 3" tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",MEX | ESPN 3
+http://195.66.210.10:80/MauriSesin/TZAKG/588124
+#EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN" tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",MEX | ESPN
+http://195.66.210.10:80/MauriSesin/TZAKG/588125
+#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="ESPN PACK",USA | ESPN DEPORTES
+http://195.66.210.10:80/MauriSesin/TZAKG/588126
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="ESPN PACK",ARG | ESPN 4
+http://195.66.210.10:80/MauriSesin/TZAKG/588128
+#EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN 2 HD" tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",MEX | ESPN 2 HD
+http://195.66.210.10:80/MauriSesin/TZAKG/588130
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN" tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",ARG | ESPN
+http://195.66.210.10:80/MauriSesin/TZAKG/588132
+#EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN 2" tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",MEX | ESPN 2
+http://195.66.210.10:80/MauriSesin/TZAKG/588134
+#EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN 3 HD" tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",MEX | ESPN 3 HD
+http://195.66.210.10:80/MauriSesin/TZAKG/588135
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN HD" tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",ARG | ESPN HD
+http://195.66.210.10:80/MauriSesin/TZAKG/588137
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 2" tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",ARG | ESPN 2
+http://195.66.210.10:80/MauriSesin/TZAKG/588138
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 3" tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",ARG | ESPN 3
+http://195.66.210.10:80/MauriSesin/TZAKG/588139
+#EXTINF:-1 tvg-id="" tvg-name="COL | ESPN" tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",COL | ESPN
+http://195.66.210.10:80/MauriSesin/TZAKG/588140
+#EXTINF:-1 tvg-id="" tvg-name="COL | ESPN 2" tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",COL | ESPN 2
+http://195.66.210.10:80/MauriSesin/TZAKG/588141
+#EXTINF:-1 tvg-id="" tvg-name="COL | ESPN 3" tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",COL | ESPN 3
+http://195.66.210.10:80/MauriSesin/TZAKG/588142
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",ARG | ESPN PREMIUM
+http://195.66.210.10:80/MauriSesin/TZAKG/588143
+#EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN 4" tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",MEX | ESPN 4
+http://195.66.210.10:80/MauriSesin/TZAKG/588144
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN" tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",CHI | ESPN
+http://195.66.210.10:80/MauriSesin/TZAKG/588145
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 2" tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",CHI | ESPN 2
+http://195.66.210.10:80/MauriSesin/TZAKG/588146
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 3" tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",CHI | ESPN 3
+http://195.66.210.10:80/MauriSesin/TZAKG/588147
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 4" tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",CHI | ESPN 4
+http://195.66.210.10:80/MauriSesin/TZAKG/588148
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 5" tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",CHI | ESPN 5
+http://195.66.210.10:80/MauriSesin/TZAKG/588149
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 6" tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",CHI | ESPN 6
+http://195.66.210.10:80/MauriSesin/TZAKG/588150
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 7" tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",CHI | ESPN 7
+http://195.66.210.10:80/MauriSesin/TZAKG/588151
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",CHI | ESPN PREMIUM
+http://195.66.210.10:80/MauriSesin/TZAKG/588152
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="FOX SPORTS PACK",FOX SPORTS
+http://195.66.210.10:80/MauriSesin/TZAKG/588154
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK",FOX SPORTS 2
+http://195.66.210.10:80/MauriSesin/TZAKG/588155
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK",FOX SPORTS 3
+http://195.66.210.10:80/MauriSesin/TZAKG/588156
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2022/03/28/f960x540-10513_84588_0.jpg" group-title="FOX SPORTS PACK",FOX SPORTS PREMIUM
+http://195.66.210.10:80/MauriSesin/TZAKG/588157
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Fox Sports 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK",ARG | Fox Sports 3
+http://195.66.210.10:80/MauriSesin/TZAKG/588158
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS 1
+http://195.66.210.10:80/MauriSesin/TZAKG/588159
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS 2
+http://195.66.210.10:80/MauriSesin/TZAKG/588160
+#EXTINF:-1 tvg-id="" tvg-name="CL | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="FOX SPORTS PACK",CL | FOX SPORTS 1
+http://195.66.210.10:80/MauriSesin/TZAKG/588161
+#EXTINF:-1 tvg-id="" tvg-name="CL | FOX SPORTS 2 HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK",CL | FOX SPORTS 2 HD
+http://195.66.210.10:80/MauriSesin/TZAKG/588162
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS  2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS  2
+http://195.66.210.10:80/MauriSesin/TZAKG/588163
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS 3
+http://195.66.210.10:80/MauriSesin/TZAKG/588164
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="FOX SPORTS PACK",MX | FOX SPORTS 1
+http://195.66.210.10:80/MauriSesin/TZAKG/588165
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK",MX | FOX SPORTS 3
+http://195.66.210.10:80/MauriSesin/TZAKG/588166
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS  1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS  1 SD
+http://195.66.210.10:80/MauriSesin/TZAKG/588167
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS  2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS  2
+http://195.66.210.10:80/MauriSesin/TZAKG/588168
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS 3
+http://195.66.210.10:80/MauriSesin/TZAKG/588169
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="FOX SPORTS PACK",MX | FOX SPORTS PREMIUM
+http://195.66.210.10:80/MauriSesin/TZAKG/588170
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="FOX SPORTS PACK",ARG | FOX SPORTS
+http://195.66.210.10:80/MauriSesin/TZAKG/588171
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 SD
+http://195.66.210.10:80/MauriSesin/TZAKG/439802
+#EXTINF:-1 tvg-id="" tvg-name="COL | ESPN 5" tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",COL | ESPN 5
+http://195.66.210.10:80/MauriSesin/TZAKG/610858
+#EXTINF:-1 tvg-id="" tvg-name="COL | ESPN 6" tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",COL | ESPN 6
+http://195.66.210.10:80/MauriSesin/TZAKG/610859
+#EXTINF:-1 tvg-id="" tvg-name="COL | ESPN 7" tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",COL | ESPN 7
+http://195.66.210.10:80/MauriSesin/TZAKG/610860
+#EXTINF:-1 tvg-id="" tvg-name="PER | ESPN 2" tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",PER | ESPN 2
+http://195.66.210.10:80/MauriSesin/TZAKG/610861
+#EXTINF:-1 tvg-id="" tvg-name="PER | ESPN 3" tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",PER | ESPN 3
+http://195.66.210.10:80/MauriSesin/TZAKG/610862
+#EXTINF:-1 tvg-id="" tvg-name="PER | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="ESPN PACK",PER | ESPN 4
+http://195.66.210.10:80/MauriSesin/TZAKG/610863
+#EXTINF:-1 tvg-id="" tvg-name="PER | ESPN 5" tvg-logo="https://i.postimg.cc/jj1XHKKm/5.png" group-title="ESPN PACK",PER | ESPN 5
+http://195.66.210.10:80/MauriSesin/TZAKG/610864
+#EXTINF:-1 tvg-id="" tvg-name="PER | ESPN 6" tvg-logo="https://i.postimg.cc/5ydSr3Xm/6.png" group-title="ESPN PACK",PER | ESPN 6
+http://195.66.210.10:80/MauriSesin/TZAKG/610865
+#EXTINF:-1 tvg-id="" tvg-name="PER | ESPN 7" tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",PER | ESPN 7
+http://195.66.210.10:80/MauriSesin/TZAKG/610866
