@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Canal 10 Nicaragua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="NICARAGUA",NIC | Canal 10
 https://d3pkdydaroq3im.cloudfront.net/original.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 6 Prin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" group-title="NICARAGUA",NIC | Canal 6
+https://live.eu-north-1b.cf.dmcdn.net/sec2(p4E-l3K3kuTjaB8pJtuISPs0o1-YzZFkj3nbQL9i9ts-ESM92-ASL8BgEXM8i-jYnF1my4frpQJSvKrU1pPTmjv6Kwwn7_sp_ND6A5mEy8A07w2pguo4YgKBc6rKTmkf)/dm/3/x9phoxq/d/live-480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 10 Resp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="NICARAGUA",NIC | Canal 10
 http://195.66.210.10:80/MauriSesin/TZAKG/12873
 #EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="MX | TELEVISA MONTERREY" tvg-logo="https://marte.com.mx/wp-content/uploads/logo14.png" group-title="MÉXICO",MX | TELEVISA MONTERREY
@@ -288,3 +290,4 @@ http://195.66.210.10:80/MauriSesin/TZAKG/610864
 http://195.66.210.10:80/MauriSesin/TZAKG/610865
 #EXTINF:-1 tvg-id="" tvg-name="PER | ESPN 7" tvg-logo="https://i.postimg.cc/8PbmyLNh/7.png" group-title="ESPN PACK",PER | ESPN 7
 http://195.66.210.10:80/MauriSesin/TZAKG/610866
+
