@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="canal10.ni" tvg-name="Canal 10 Nicaragua" group-title="NICARAGUA",Canal 10
+#EXTINF:-1 tvg-name="Canal 10 Nicaragua" group-title="NICARAGUA",Canal 10 Nicaragua
+#EXTVLCOPT:http-reconnect=true
 https://raw.githubusercontent.com/DexSrios2002/DexterList/main/canal10.m3u8
