@@ -2,3 +2,41 @@
 
 #EXTINF:-1 tvg-logo="https://alba-ni-c10.cdn.mediatiquepress.com/wp-content/uploads/2023/07/a0cd3c0a5e48b34d.png",Canal 10 Nicaragua
 https://raw.githubusercontent.com/DexSrios2002/DexterList/main/canal10.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA: Teen Nick HD" tvg-logo="http://tvgolatino.com:8080/images/21b06ba231e569645cbc9c2191f46845.png" group-title="CANAIS • EUA",USA: Teen Nick HD
+http://axshield.xyz:80/219469/109465/9015297
+#EXTINF:-1 tvg-id="" tvg-name="USA: TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png" group-title="CANAIS • EUA",USA: TELEMUNDO
+http://axshield.xyz:80/219469/109465/9015303
+#EXTINF:-1 tvg-id="" tvg-name="USA: Tennis Channel" tvg-logo="https://cm-inter.xyz/Logos/USA/TENNISCHANNELHD.png" group-title="CANAIS • EUA",USA: Tennis Channel
+http://axshield.xyz:80/219469/109465/9015359
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE Cowboy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/The_Cowboy_Channel.png/200px-The_Cowboy_Channel.png" group-title="CANAIS • EUA",USA: THE Cowboy Channel
+http://axshield.xyz:80/219469/109465/9015304
+#EXTINF:-1 tvg-id="" tvg-name="USA: TLC  HD" tvg-logo="http://tvgo.re:8080/images/12c5cec6c7bfc8f2ea96f31e7cc76c55.png" group-title="CANAIS • EUA",USA: TLC  HD
+http://axshield.xyz:80/219469/109465/9015298
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT HD" tvg-logo="http://tvgo.re:8080/images/133dca75c260cab04f909eba8567a43f.png" group-title="CANAIS • EUA",USA: TNT HD
+http://axshield.xyz:80/219469/109465/9015299
+#EXTINF:-1 tvg-id="" tvg-name="USA: Travel HD" tvg-logo="http://tvgo.re:8080/images/91e9466842c4ddd266095fa313f1ac39.png" group-title="CANAIS • EUA",USA: Travel HD
+http://axshield.xyz:80/219469/109465/9015300
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="USA: Trutv HD" tvg-logo="http://tvgo.re:8080/images/7c0de871e877a74a2f390dcb6dd98d73.png" group-title="CANAIS • EUA",USA: Trutv HD
+http://axshield.xyz:80/219469/109465/9015301
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoon-network-fhd.png" group-title="CANAIS • INFANTIL",CARTOON NETWORK FHD
+http://axshield.xyz:80/219469/109465/9014626
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoon-network-fhd.png" group-title="CANAIS • INFANTIL",CARTOON NETWORK HD
+http://axshield.xyz:80/219469/109465/9014627
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoon-network-fhd.png" group-title="CANAIS • INFANTIL",CARTOON NETWORK SD
+http://axshield.xyz:80/219469/109465/9014628
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoonito-fhd.png" group-title="CANAIS • INFANTIL",CARTOONITO FHD
+http://axshield.xyz:80/219469/109465/9014623
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoonito-fhd.png" group-title="CANAIS • INFANTIL",CARTOONITO HD
+http://axshield.xyz:80/219469/109465/9014624
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoonito-fhd.png" group-title="CANAIS • INFANTIL",CARTOONITO SD
+http://axshield.xyz:80/219469/109465/9014625
+#EXTINF:-1 tvg-id="" tvg-name="H2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history2.png" group-title="CANAIS • DOCUMENTÁRIOS",H2 FHD
+http://axshield.xyz:80/219469/109465/9014612
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history2.png" group-title="CANAIS • DOCUMENTÁRIOS",H2 HD
+http://axshield.xyz:80/219469/109465/9014613
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history2.png" group-title="CANAIS • DOCUMENTÁRIOS",H2 SD
+http://axshield.xyz:80/219469/109465/9014614
+
