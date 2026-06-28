@@ -6,5 +6,5 @@ https://raw.githubusercontent.com/DexSrios2002/DexterList/main/canal10.m3u8
 #EXTINF:-1 tvg-id="canal10_backup1" tvg-name="NI: CANAL 10 Backup" tvg-logo="https://alba-ni-c10.cdn.mediatiquepress.com/wp-content/uploads/2023/07/a0cd3c0a5e48b34d.png" group-title="NICARAGUA",Canal 10 (Backup)
 https://d3pkdydaroq3im.cloudfront.net/original.m3u8
 
-#EXTINF:-1 tvg-id="canal10_backup2" tvg-name="NI: CANAL 10 Backup 2" tvg-logo="https://alba-ni-c10.cdn.mediatiquepress.com/wp-content/uploads/2023/07/a0cd3c0a5e48b34d.png" group-title="NICARAGUA",Canal 10 (Backup 2)
-https://d82p4jax9pjrm.cloudfront.net/medialist_4276517416086298479_hls.m3u8
+#EXTINF:-1,DSports 2
+https://raw.githubusercontent.com/DexSrios2002/DexterList/refs/heads/main/Lista%20Fut.m3u8
