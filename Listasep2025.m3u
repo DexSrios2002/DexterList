@@ -13,6 +13,549 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://d2h2wh04y3aqtb.cloudfront.net/hls/ja5k3h31wv9r/5_4/index.m3u8
 
 
+
+
+#EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="por;spa" group-title="Animation" nexus-score="100",Cartoon Network Latin America (1080p)
+http://45.173.12.70:8000/play/a0fj
+#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-name="Cartoonito Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" tvg-country="US" tvg-language="spa;por" group-title="Animation" nexus-score="100",Cartoonito Latin America (1080p)
+http://45.173.12.70:8000/play/a0hh
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-name="Garage TV Latin America" tvg-logo="https://i.imgur.com/FqFxog1.png" tvg-country="AR" tvg-language="spa" group-title="Auto" nexus-score="100",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="5DiasTV.py" tvg-name="5Dias TV" tvg-logo="https://i.imgur.com/AX25tmv.png" tvg-country="PY" tvg-language="spa" group-title="Business" nexus-score="100",5Dias TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+#EXTINF:-1 tvg-id="TVSRetro.gt" tvg-name="TVS Retro" tvg-logo="https://i.imgur.com/jdnHci0.png" tvg-country="GT" tvg-language="spa" group-title="Classic" nexus-score="64",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" tvg-logo="https://i.imgur.com/N4pFVVF.png" tvg-country="CR" tvg-language="spa" group-title="Culture" nexus-score="100",Costa Rica Channel (576p)
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 tvg-id="GikTVMX.mx" tvg-name="GikTVMX" tvg-logo="https://i.imgur.com/Gwz78jZ.png" tvg-country="MX" tvg-language="spa" group-title="Culture" nexus-score="100",GikTVMX (720p)
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" tvg-logo="https://i.imgur.com/mZkW342.png" tvg-country="EC" tvg-language="spa" group-title="Culture" nexus-score="99",Manavision (480p)
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+#EXTINF:-1 tvg-id="SenalU.ar" tvg-name="Senal U" tvg-logo="https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png" tvg-country="AR" tvg-language="spa" group-title="Culture" nexus-score="98",Senal U
+https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
+#EXTINF:-1 tvg-id="VersoTV.cl" tvg-name="Verso TV" tvg-logo="https://i.imgur.com/zdv4IF8.png" tvg-country="CL" tvg-language="spa" group-title="Culture" nexus-score="100",Verso TV
+https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+#EXTINF:-1 tvg-id="Ecovision.do" tvg-name="Ecovision" tvg-logo="https://imgur.com/Y4ahiYu.png" tvg-country="DO" tvg-language="spa" group-title="Documentary" nexus-score="100",Ecovision (720p)
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="US" tvg-language="spa" group-title="Documentary" nexus-score="100",Investigation Discovery Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-id="CanalUniversidad.ar" tvg-name="Canal Universidad" tvg-logo="https://files.catbox.moe/n1b27y.png" tvg-country="AR" tvg-language="spa" group-title="Education" nexus-score="100",Canal Universidad
+https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
+#EXTINF:-1 tvg-id="TVBUAP.mx" tvg-name="TV BUAP" tvg-logo="https://i.imgur.com/hHrIn0r.png" tvg-country="MX" tvg-language="spa" group-title="Education" nexus-score="50",TV BUAP (1080p)
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+#EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-name="UNIANDES TV" tvg-logo="https://i.imgur.com/1rluyB7.png" tvg-country="EC" tvg-language="spa" group-title="Education" nexus-score="96",UNIANDES TV (720p)
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1 tvg-id="UTalcaTV.cl" tvg-name="UTalca TV" tvg-logo="https://i.imgur.com/2AK61FQ.png" tvg-country="CL" tvg-language="spa" group-title="Education" nexus-score="100",UTalca TV (1080p)
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-name="Alegre TV RD" tvg-logo="https://i.imgur.com/O6USO8r.png" tvg-country="DO" tvg-language="spa" group-title="Entertainment" nexus-score="79",Alegre TV RD (720p)
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 tvg-id="AltMediaTV.py" tvg-name="Alt Media TV" tvg-logo="https://i.imgur.com/YkOgWMc.png" tvg-country="PY" tvg-language="spa" group-title="Entertainment" nexus-score="100",Alt Media TV
+https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-country="MX" tvg-language="spa" group-title="Entertainment" nexus-score="96",Azteca Internacional (1080p)
+http://167.249.23.102:8000/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-id="BacanTeVeo.ec" tvg-name="Bacan Te Veo" tvg-logo="https://i.imgur.com/m1LK6rY.png" tvg-country="EC" tvg-language="spa" group-title="Entertainment" nexus-score="100",Bacan Te Veo (360p)
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+#EXTINF:-1 tvg-id="Bellavision.do" tvg-name="Bellavision" tvg-logo="https://i.imgur.com/XqQ3kCs.png" tvg-country="DO" tvg-language="spa" group-title="Entertainment" nexus-score="100",Bellavision (1080p)
+https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CanalNets.co" tvg-name="Canal Nets" tvg-logo="https://i.imgur.com/edaAexc.png" tvg-country="CO" tvg-language="spa" group-title="Entertainment" nexus-score="100",Canal Nets (720p)
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="CanicaTV.co" tvg-name="Canica TV" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" tvg-country="CO" tvg-language="spa" group-title="Entertainment" nexus-score="95",Canica TV (240p)
+https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CarasTV.ar" tvg-name="Caras TV" tvg-logo="https://i.imgur.com/7dl4yQY.jpeg" tvg-country="AR" tvg-language="spa" group-title="Entertainment" nexus-score="99",Caras TV (1080p)
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DesdeElSurTV.uy" tvg-name="Desde El Sur TV" tvg-logo="https://i.imgur.com/y3vNkEU.jpeg" tvg-country="UY" tvg-language="spa" group-title="Entertainment" nexus-score="100",Desde El Sur TV
+https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
+#EXTINF:-1 tvg-id="GalaxiATeVe.do" tvg-name="GalaxiATeVe" tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" tvg-country="DO" tvg-language="spa" group-title="Entertainment" nexus-score="100",GalaxiATeVe (360p)
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+#EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-name="La Potente Radio TV" tvg-logo="https://i.imgur.com/ti5Fg5D.png" tvg-country="CR" tvg-language="spa" group-title="Entertainment" nexus-score="100",La Potente Radio TV
+https://latamvdo.com:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="LaraenRedes.ve" tvg-name="Lara en Redes" tvg-logo="https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg" tvg-country="VE" tvg-language="spa" group-title="Entertainment" nexus-score="100",Lara en Redes
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-name="LatacungaTV" tvg-logo="https://i.imgur.com/YjgYYH3.png" tvg-country="EC" tvg-language="spa" group-title="Entertainment" nexus-score="100",LatacungaTV (360p)
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroTV.ar" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/7f7M7zl.png" tvg-country="AR" tvg-language="spa" group-title="Entertainment" nexus-score="100",Metro TV (720p)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" tvg-country="US" tvg-language="eng;spa" group-title="Entertainment" nexus-score="100",MTV2 (720p)
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 tvg-id="NadaEsImposibleTV.cl" tvg-name="Nada Es Imposible TV" tvg-logo="https://i.imgur.com/cGNgvOD.png" tvg-country="CL" tvg-language="spa" group-title="Entertainment" nexus-score="100",Nada Es Imposible TV
+https://vdochile.com:3194/live/mvqutymylive.m3u8
+#EXTINF:-1 tvg-id="NitidaTV.do" tvg-name="Nitida TV" tvg-logo="https://i.imgur.com/z9JkxcM.png" tvg-country="DO" tvg-language="spa" group-title="Entertainment" nexus-score="100",Nitida TV (720p)
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 tvg-id="NortenaTv.ve" tvg-name="Nortena Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU" tvg-country="VE" tvg-language="spa" group-title="Entertainment" nexus-score="47",Nortena Tv (576p)
+https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
+#EXTINF:-1 tvg-id="OasisTV.py" tvg-name="Oasis TV" tvg-logo="https://i.imgur.com/u9umNKp.jpeg" tvg-country="PY" tvg-language="spa" group-title="Entertainment" nexus-score="53",Oasis TV (720p)
+https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar" tvg-name="Power Max Radio TV" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" tvg-country="AR" tvg-language="spa" group-title="Entertainment" nexus-score="100",Power Max Radio TV (720p)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-id="RSVHonduras.hn" tvg-name="RSV Honduras" tvg-logo="https://i.imgur.com/yr7Ellh.jpg" tvg-country="HN" tvg-language="spa" group-title="Entertainment" nexus-score="100",RSV Honduras (720p)
+https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGolfoUraba.co" tvg-name="TV Golfo Uraba" tvg-logo="https://i.imgur.com/Nd5axnS.png" tvg-country="CO" tvg-language="spa" group-title="Entertainment" nexus-score="100",TV Golfo Uraba
+https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKaliente.pe" tvg-name="TV Kaliente" tvg-logo="https://i.imgur.com/MFQpLuQ.png" tvg-country="PE" tvg-language="spa" group-title="Entertainment" nexus-score="71",TV Kaliente (360p)
+https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCARiBLatino.sx" tvg-name="TVCARiB Latino" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-country="SX" tvg-language="spa" group-title="Entertainment" nexus-score="99",TVCARiB Latino (720p)
+https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
+#EXTINF:-1 tvg-id="TVS.do" tvg-name="TVS" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" tvg-country="DO" tvg-language="spa" group-title="Entertainment" nexus-score="66",TVS (540p)
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 tvg-id="ABTVBariloche.ar" tvg-name="ABTV Bariloche" tvg-logo="https://i.imgur.com/l4TSfDr.png" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="99",ABTV Bariloche
+https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" tvg-logo="https://i.imgur.com/0COKxet.png" tvg-country="PY" tvg-language="spa" group-title="General" nexus-score="100",America Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="100",Argentinisima Satelital (540p)
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" tvg-logo="https://i.ibb.co/SPCkBR8/ayni-tv-bo.png" tvg-country="BO" tvg-language="spa" group-title="General" nexus-score="99",AYNI TV (720p)
+https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
+#EXTINF:-1 tvg-id="BaniVision.do" tvg-name="Bani Vision" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Bani Vision (720p)
+https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
+#EXTINF:-1 tvg-id="BarbeTV.gt" tvg-name="Barbe TV" tvg-logo="https://i.imgur.com/2Sekew2.png" tvg-country="GT" tvg-language="spa" group-title="General" nexus-score="79",Barbe TV (720p)
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-id="BCNGospelTV.es" tvg-name="BCN Gospel TV" tvg-logo="https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png" tvg-country="ES" tvg-language="spa" group-title="General" nexus-score="100",BCN Gospel TV (720p)
+https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
+#EXTINF:-1 tvg-id="BNBDigital.pe" tvg-name="BNB Digital" tvg-logo="https://i.imgur.com/MgEN1F8.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="100",BNB Digital (1080p)
+https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal12.ni" tvg-name="Canal 12" tvg-logo="https://i.imgur.com/UhEW8cj.png" tvg-country="NI" tvg-language="spa" group-title="General" nexus-score="100",Canal 12 (576p)
+http://45.228.234.9:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="Canal2MardelPlata.ar" tvg-name="Canal 2 Mar del Plata" tvg-logo="https://i.imgur.com/wlKFPBW.jpeg" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="99",Canal 2 Mar del Plata (720p)
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1 tvg-id="Canal21Huancayo.pe" tvg-name="Canal 21 Huancayo" tvg-logo="https://i.imgur.com/Kfdkm06.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="100",Canal 21 Huancayo (720p)
+https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Canal21Tachira.ve" tvg-name="Canal 21 Tachira" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" tvg-country="VE" tvg-language="spa" group-title="General" nexus-score="100",Canal 21 Tachira (360p)
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Teleaire.ar" tvg-name="Canal 4 Teleaire" tvg-logo="https://i.imgur.com/XyiNvbY.png" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="100",Canal 4 Teleaire
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5DelPueblo.ar" tvg-name="Canal 5 Del Pueblo" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="100",Canal 5 Del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal99Miramar.ar" tvg-name="Canal 99 Miramar" tvg-logo="https://i.imgur.com/PblsZxz.jpeg" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="100",Canal 99 Miramar
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+#EXTINF:-1 tvg-id="CanalALMA.uy" tvg-name="Canal ALMA" tvg-logo="https://i.imgur.com/rB7iFUF.jpg" tvg-country="UY" tvg-language="spa" group-title="General" nexus-score="100",Canal ALMA
+#EXTVLCOPT:http-referrer=https://canalalma.tv
+https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="https://i.imgur.com/ODMa27W.jpg" tvg-country="CO" tvg-language="spa" group-title="General" nexus-score="98",Canal Mas Television (720p)
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="CanalSur2.es" tvg-name="Canal Sur 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png" tvg-country="ES" tvg-language="spa" group-title="General" nexus-score="100",Canal Sur 2 (720p)
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canalda26HD.do" tvg-name="Canalda 26 HD" tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Canalda 26 HD
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 tvg-id="CaobaTVRadio.do" tvg-name="Caoba TV Radio" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Caoba TV Radio (720p)
+https://host.streamingnation.live:3940/live/caobatvlive.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-country="CO" tvg-language="spa" group-title="General" nexus-score="100",Caracol Internacional (1080p)
+http://190.123.76.22:8002/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="CatatumboTV.ve" tvg-name="Catatumbo TV" tvg-logo="https://i.imgur.com/LBI2la0.png" tvg-country="VE" tvg-language="spa" group-title="General" nexus-score="100",Catatumbo TV (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-id="CerritosTV3.us" tvg-name="Cerritos TV3" tvg-logo="https://i.imgur.com/huCBOIy.png" tvg-country="US" tvg-language="eng;spa" group-title="General" nexus-score="100",Cerritos TV3 (360p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
+#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-name="Claro Television Dominicana" tvg-logo="https://i.imgur.com/fJD7OxB.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="96",Claro Television Dominicana (360p)
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1 tvg-id="CMMTV.es" tvg-name="CMM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png" tvg-country="ES" tvg-language="spa" group-title="General" nexus-score="100",CMM TV (1080p)
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+#EXTINF:-1 tvg-id="Coral39.do" tvg-name="Coral 39" tvg-logo="https://i.imgur.com/k6cv9A9.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Coral 39 (1080p)
+https://hls.tvabierta.net/hls/039.m3u8
+#EXTINF:-1 tvg-id="CotubanamaTV.do" tvg-name="Cotubanama TV" tvg-logo="https://i.imgur.com/D6gAezp.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Cotubanama TV (1080p)
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="CromTV.do" tvg-name="CromTV" tvg-logo="https://i.imgur.com/jk1lkOV.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="89",CromTV (1080p)
+https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CVNTV.pe" tvg-name="CVN TV" tvg-logo="https://i.imgur.com/QF5VUcy.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="75",CVN TV
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+#EXTINF:-1 tvg-id="DeltaTV.bo" tvg-name="Delta TV" tvg-logo="https://i.imgur.com/FcciYMD.png" tvg-country="BO" tvg-language="spa" group-title="General" nexus-score="100",Delta TV
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="DeltaTVCanal50.do" tvg-name="Delta TV Canal 50" tvg-logo="https://imgur.com/Z1K1tyl.jpg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="99",Delta TV Canal 50 (720p)
+https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EclipseTV.mx" tvg-name="Eclipse TV" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" tvg-country="MX" tvg-language="spa" group-title="General" nexus-score="95",Eclipse TV (720p)
+https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-logo="https://i.imgur.com/hj6EYwe.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="100",Ecuador TV (1080p)
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
+#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar" tvg-name="El Trece Internacional Latin America" tvg-logo="https://i.imgur.com/Vo6prbh.png" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="100",El Trece Internacional Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
+#EXTINF:-1 tvg-id="EntunoTV.do" tvg-name="Entuno TV" tvg-logo="https://imgur.com/U9OsybQ.jpg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="77",Entuno TV (1080p)
+https://soportedvb.click:3442/live/entunotvlive.m3u8
+#EXTINF:-1 tvg-id="FRATATV.do" tvg-name="FRATA TV" tvg-logo="https://i.imgur.com/VxeTREd.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",FRATA TV (1080p)
+https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GHTelevision.do" tvg-name="GH Television" tvg-logo="https://i.imgur.com/xhkiiO3.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="88",GH Television (1080p)
+https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="GlobalSocialTV.do" tvg-name="Global Social TV" tvg-logo="https://imgur.com/sGN1NbR.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="95",Global Social TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.do" tvg-name="Global TV" tvg-logo="https://i.imgur.com/1rQaROm.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Global TV (720p)
+https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="GuayapeTV.hn" tvg-name="Guayape TV" tvg-logo="https://i.imgur.com/cteBdAJ.jpg" tvg-country="HN" tvg-language="spa" group-title="General" nexus-score="98",Guayape TV
+https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
+#EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-name="Huacho Peru TV" tvg-logo="https://i.imgur.com/PevmfqK.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="100",Huacho Peru TV
+https://tv.huachotv.com/stream.m3u8
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen Universal TV" tvg-logo="https://i.imgur.com/DP6HmDV.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="66",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-name="La Chilena TV" tvg-logo="https://i.imgur.com/GHJkxaB.png" tvg-country="CL" tvg-language="spa" group-title="General" nexus-score="100",La Chilena TV
+https://vdochile.com:3134/stream/play.m3u8
+#EXTINF:-1 tvg-id="LaDescargaTV.do" tvg-name="La Descarga TV" tvg-logo="https://imgur.com/kq1CrDE.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",La Descarga TV
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-country="MX" tvg-language="spa" group-title="General" nexus-score="100",Las Estrellas (1080p)
+http://45.189.151.7:8000/play/a07s
+#EXTINF:-1 tvg-id="LatinaTV.ve" tvg-name="Latina TV" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1" tvg-country="VE" tvg-language="spa" group-title="General" nexus-score="100",Latina TV (1080p)
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="LoretoTV.ec" tvg-name="Loreto TV" tvg-logo="https://i.imgur.com/3qGSAT3.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="100",Loreto TV (720p)
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+#EXTINF:-1 tvg-id="LunaTVCanal53.do" tvg-name="Luna TV Canal 53" tvg-logo="https://i.imgur.com/EvX5aqI.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Luna TV Canal 53 (720p)
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1 tvg-id="MakinaTV.do" tvg-name="Makina TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="55",Makina TV (720p)
+https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
+#EXTINF:-1 tvg-id="MarlaVision.do" tvg-name="Marla Vision" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="99",Marla Vision (576p)
+https://soportedvb.click:3877/live/merlavisionlive.m3u8
+#EXTINF:-1 tvg-id="MarsellaTV.co" tvg-name="Marsella TV" tvg-logo="https://i.imgur.com/wwYOa00.png" tvg-country="CO" tvg-language="spa" group-title="General" nexus-score="100",Marsella TV
+https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
+#EXTINF:-1 tvg-id="MilenialTV.pe" tvg-name="Milenial TV" tvg-logo="https://i.imgur.com/8ZiNoEa.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="100",Milenial TV
+https://www.milenial.news/salida/milenial.m3u8
+#EXTINF:-1 tvg-id="MontecristiDigital8.do" tvg-name="Montecristi Digital 8" tvg-logo="https://imgur.com/ExoOHQI.jpeg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Montecristi Digital 8
+https://soportedvb.click:3400/live/montecristitvlive.m3u8
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-name="Neo TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="90",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-name="Neox TV" tvg-logo="https://i.imgur.com/eIX71c9.png" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="100",Neox TV
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+#EXTINF:-1 tvg-id="NinaTV.cl" tvg-name="Nina TV" tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png" tvg-country="CL" tvg-language="spa" group-title="General" nexus-score="100",Nina TV (720p)
+https://tv1.ninatv.cl/hls/stream.m3u8
+#EXTINF:-1 tvg-id="OromarTVPlus.ec" tvg-name="Oromar TV+" tvg-logo="https://oromartv.com/images/OTV400.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="93",Oromar TV+ (720p)
+https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 tvg-id="PalmarTV.do" tvg-name="Palmar TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Palmar TV
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1 tvg-id="PlanetaChannel.ec" tvg-name="Planeta Channel" tvg-logo="https://i.imgur.com/XyBKaXI.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="40",Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve" tvg-name="Portuguesa Television" tvg-logo="https://i.imgur.com/jHUSfGz.png" tvg-country="VE" tvg-language="spa" group-title="General" nexus-score="79",Portuguesa Television (480p)
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-id="Primavera15.pe" tvg-name="Primavera 15" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="85",Primavera 15
+https://mc.servidor.stream:19360/8244/8244.m3u8
+#EXTINF:-1 tvg-id="PuringlaTV.hn" tvg-name="Puringla TV" tvg-logo="https://i.imgur.com/CGyjxPO.jpg" tvg-country="HN" tvg-language="spa" group-title="General" nexus-score="100",Puringla TV
+https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
+#EXTINF:-1 tvg-id="QollasuyoTV.pe" tvg-name="Qollasuyo TV" tvg-logo="https://i.imgur.com/6bi7fGB.jpeg" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="100",Qollasuyo TV (240p)
+https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioKollasuyo.bo" tvg-name="Radio Kollasuyo" tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2022/08/01/rk-white-500.png" tvg-country="BO" tvg-language="spa" group-title="General" nexus-score="100",Radio Kollasuyo (720p)
+https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
+#EXTINF:-1 tvg-id="RadioNuble.cl" tvg-name="Radio Nuble" tvg-logo="https://cdn.m3u.cl/logo/870_Radio_Nuble.png" tvg-country="CL" tvg-language="spa" group-title="General" nexus-score="50",Radio Nuble (720p)
+https://tv.telselec.cl:3376/live/nublefmlive.m3u8
+#EXTINF:-1 tvg-id="Radiocanal.ar" tvg-name="Radiocanal" tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" tvg-country="AR" tvg-language="spa" group-title="General" nexus-score="100",Radiocanal (1080p)
+http://204.199.3.2/.m3u8
+#EXTINF:-1 tvg-id="RedDigital.py" tvg-name="Red Digital" tvg-logo="https://i.imgur.com/3jj0MQP.jpg" tvg-country="PY" tvg-language="spa" group-title="General" nexus-score="100",Red Digital (1080p)
+https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+#EXTINF:-1 tvg-id="RedTVEVentanas.ec" tvg-name="Red TVE Ventanas" tvg-logo="https://i.imgur.com/Pzf2ZAW.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="89",Red TVE Ventanas (432p)
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="100",RTS (1080p)
+http://45.224.97.181:9999/RTS/index.m3u8
+#EXTINF:-1 tvg-id="SanNicolasTV.cl" tvg-name="San Nicolas TV" tvg-logo="https://i.imgur.com/z94YCpH.png" tvg-country="CL" tvg-language="spa" group-title="General" nexus-score="100",San Nicolas TV (720p)
+https://v4.tustreaming.cl/sannicolastv/index.m3u8
+#EXTINF:-1 tvg-id="SantaCruzTV.do" tvg-name="Santa Cruz TV" tvg-logo="https://santacruztv8.com/assets/images/logo.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Santa Cruz TV (1080p)
+https://host.streamingnation.live/p/3345/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="SenalDigitalTV.do" tvg-name="Senal Digital TV" tvg-logo="https://imgur.com/KGqUu1X.jpg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="98",Senal Digital TV
+https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
+#EXTINF:-1 tvg-id="SIPSETVCUN81.mx" tvg-name="SIPSE TVCUN 8.1" tvg-logo="https://i.imgur.com/uiTgClU.png" tvg-country="MX" tvg-language="spa" group-title="General" nexus-score="96",SIPSE TVCUN 8.1 (1080p)
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-id="SiTV.do" tvg-name="SiTV" tvg-logo="https://i.imgur.com/f8bDccF.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",SiTV (1080p)
+http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" tvg-country="PY" tvg-language="spa" group-title="General" nexus-score="100",SNT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
+#EXTINF:-1 tvg-id="SolTV.gt" tvg-name="Sol TV" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" tvg-country="GT" tvg-language="spa" group-title="General" nexus-score="64",Sol TV (720p)
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1 tvg-id="SoonaTV.co" tvg-name="Soona TV" tvg-logo="https://i.imgur.com/Pk8zzTL.jpeg" tvg-country="CO" tvg-language="spa" group-title="General" nexus-score="99",Soona TV
+https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
+#EXTINF:-1 tvg-id="SucremantaTV.bo" tvg-name="Sucremanta TV" tvg-logo="https://i.imgur.com/noN0Yhe.png" tvg-country="BO" tvg-language="spa" group-title="General" nexus-score="85",Sucremanta TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleElx.es" tvg-name="Tele Elx" tvg-logo="https://i.imgur.com/w5NTWpl.png" tvg-country="ES" tvg-language="spa" group-title="General" nexus-score="100",Tele Elx (1080p)
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:-1 tvg-id="TelePoderTV.do" tvg-name="Tele Poder TV" tvg-logo="https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="92",Tele Poder TV (720p)
+https://cdn.telepoder.online:3229/dash/stream.m3u8
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-country="CO" tvg-language="spa" group-title="General" nexus-score="100",Telecafe (1080p)
+http://181.78.16.156:18000/play/a0dt
+#EXTINF:-1 tvg-id="Telecanal12.do" tvg-name="Telecanal 12" tvg-logo="https://i.imgur.com/90cTK8S.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Telecanal 12 (720p)
+https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="Telecentro" tvg-logo="https://i.imgur.com/QtRNfaj.png" tvg-country="VE" tvg-language="spa" group-title="General" nexus-score="100",Telecentro (480p)
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+#EXTINF:-1 tvg-id="TelecomercioTV.do" tvg-name="Telecomercio TV" tvg-logo="https://imgur.com/FtV5TCs.jpg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="96",Telecomercio TV (720p)
+https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
+#EXTINF:-1 tvg-id="Telecontacto.do" tvg-name="Telecontacto" tvg-logo="https://i.imgur.com/TMvV9dF.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="99",Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+#EXTINF:-1 tvg-id="Telelima.pe" tvg-name="Telelima" tvg-logo="https://telelima.pe/img/logo.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="100",Telelima (1080p)
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" tvg-country="US" tvg-language="eng;spa" group-title="General" nexus-score="100",Telemundo (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1 tvg-id="Telerama.ec" tvg-name="Telerama" tvg-logo="https://i.imgur.com/whIRrjo.png" tvg-country="EC" tvg-language="spa" group-title="General" nexus-score="99",Telerama (240p)
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+#EXTINF:-1 tvg-id="TELESIGLO.do" tvg-name="TELESIGLO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",TELESIGLO (1080p)
+https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telever.do" tvg-name="Telever" tvg-logo="https://imgur.com/ejKctXc.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="70",Telever (1080p)
+https://soportedvb.click:3413/live/televerlive.m3u8
+#EXTINF:-1 tvg-id="TelevisionCaribe.us" tvg-name="Television Caribe" tvg-logo="https://televisioncaribe.com/logo.png" tvg-country="US" tvg-language="spa" group-title="General" nexus-score="100",Television Caribe (1080p)
+https://televisioncaribe.com/index.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-name="Television Tarapoto" tvg-logo="https://i.imgur.com/Dzen7sh.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="100",Television Tarapoto (1080p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="TNORadio.ve" tvg-name="TNO Radio" tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" tvg-country="VE" tvg-language="spa" group-title="General" nexus-score="100",TNO Radio (720p)
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" tvg-country="PY" tvg-language="spa" group-title="General" nexus-score="100",Trece
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-id="TVCanindeyu.py" tvg-name="TV Canindeyu" tvg-logo="https://i.imgur.com/cateqjx.jpeg" tvg-country="PY" tvg-language="spa" group-title="General" nexus-score="100",TV Canindeyu (1080p)
+https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos" tvg-logo="https://i.imgur.com/nr4ctt4.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="100",TV Cosmos (720p)
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+#EXTINF:-1 tvg-id="TVHispanic.us" tvg-name="TV Hispanic" tvg-logo="https://i.imgur.com/bgBMglf.jpeg" tvg-country="US" tvg-language="spa" group-title="General" nexus-score="99",TV Hispanic
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+#EXTINF:-1 tvg-id="TVMAR.pe" tvg-name="TV MAR" tvg-logo="https://i.imgur.com/VXvbNjT.png" tvg-country="PE" tvg-language="spa" group-title="General" nexus-score="40",TV MAR (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="TVQuisqueya.us" tvg-name="TV Quisqueya" tvg-logo="https://i.imgur.com/G7X4LQI.png" tvg-country="US" tvg-language="spa" group-title="General" nexus-score="97",TV Quisqueya (720p)
+https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
+#EXTINF:-1 tvg-id="TVO.do" tvg-name="TVO" tvg-logo="https://i.imgur.com/MhloaFB.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",TVO (720p)
+https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
+#EXTINF:-1 tvg-id="ValleNuevoTV.do" tvg-name="Valle Nuevo TV" tvg-logo="https://i.imgur.com/RvIkFxp.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-id="VegaTeve.do" tvg-name="Vega Teve" tvg-logo="https://i.imgur.com/jiyMOZx.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="97",Vega Teve (720p)
+https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
+#EXTINF:-1 tvg-id="VegavisionCanal18.do" tvg-name="Vegavision Canal 18" tvg-logo="https://i.imgur.com/352jxnd.png" tvg-country="DO" tvg-language="spa" group-title="General" nexus-score="100",Vegavision Canal 18 (1080p)
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" tvg-logo="https://i.imgur.com/0bqJksL.png" tvg-country="VE" tvg-language="spa" group-title="General" nexus-score="100",Vepaco TV (480p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Clan_2026.svg/960px-Clan_2026.svg.png" tvg-country="ES" tvg-language="spa" group-title="Kids" nexus-score="100",Clan Internacional (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" tvg-country="US" tvg-language="eng;spa" group-title="Kids" nexus-score="100",Disney Junior (480p)
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-id="FunBox.cl" tvg-name="FunBox" tvg-logo="https://i.imgur.com/9MXM6jD.png" tvg-country="CL" tvg-language="spa" group-title="Kids" nexus-score="100",FunBox
+http://186.148.196.100:8000/play/a00d
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="US" tvg-language="spa" group-title="Kids" nexus-score="99",Nickelodeon Latin America (1080p)
+http://181.78.79.131:8000/play/a0qm
+#EXTINF:-1 tvg-id="PequesTV.pe" tvg-name="Peques TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-country="PE" tvg-language="spa" group-title="Kids" nexus-score="100",Peques TV (1080p)
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento" tvg-logo="https://i.imgur.com/BUO0wH6.png" tvg-country="ES" tvg-language="spa" group-title="Legislative" nexus-score="100",Canal Parlamento (360p)
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-id="TVLegislativa.ec" tvg-name="TV Legislativa" tvg-logo="https://i.imgur.com/3Y6Lp5l.png" tvg-country="EC" tvg-language="spa" group-title="Legislative" nexus-score="100",TV Legislativa (1080p)
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx" tvg-name="Discovery Home & Health Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" tvg-country="MX" tvg-language="por;spa" group-title="Lifestyle" nexus-score="100",Discovery Home & Health Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+#EXTINF:-1 tvg-id="AneflixLive.us" tvg-name="Aneflix Live" tvg-logo="https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png" tvg-country="US" tvg-language="eng;spa" group-title="Movies" nexus-score="100",Aneflix Live (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vaughn.live/
+https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv
+#EXTINF:-1 tvg-id="Boreal.do" tvg-name="Boreal" tvg-logo="https://i.imgur.com/KSquHTG.png" tvg-country="DO" tvg-language="spa" group-title="Movies" nexus-score="100",Boreal (720p)
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-name="Xtrema Accion" tvg-logo="https://i.imgur.com/z5NwizH.png" tvg-country="AR" tvg-language="spa" group-title="Movies" nexus-score="100",Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-name="Beats Radio" tvg-logo="https://i.imgur.com/zkNUO5p.png" tvg-country="AR" tvg-language="spa" group-title="Music" nexus-score="100",Beats Radio (480p)
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1 tvg-id="BuenisimaRadioTV.co" tvg-name="Buenisima Radio TV" tvg-logo="https://i.imgur.com/URKDlOZ.png" tvg-country="CO" tvg-language="spa" group-title="Music" nexus-score="100",Buenisima Radio TV
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+#EXTINF:-1 tvg-id="Canal3KMKTV.cr" tvg-name="Canal 3 KMK TV" tvg-logo="https://i.imgur.com/sgRDRBK.jpg" tvg-country="CR" tvg-language="spa" group-title="Music" nexus-score="100",Canal 3 KMK TV (720p)
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 tvg-id="ChocolateFM.cl" tvg-name="Chocolate FM" tvg-logo="https://cdn.m3u.cl/logo/382_ChocolateFM.png" tvg-country="CL" tvg-language="spa" group-title="Music" nexus-score="93",Chocolate FM (720p)
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-id="ClaroMusicaTV.co" tvg-name="Claro Musica TV" tvg-logo="https://i.imgur.com/vrSFUwv.png" tvg-country="CO" tvg-language="spa" group-title="Music" nexus-score="96",Claro Musica TV (1080p)
+http://45.171.64.30:6060/play/a010
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/qEk0QGa.png" tvg-country="MX" tvg-language="spa" group-title="Music" nexus-score="100",Conecta TV (720p)
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" tvg-logo="https://i.imgur.com/HVdbXku.png" tvg-country="PA" tvg-language="spa" group-title="Music" nexus-score="100",Corazon TV
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+#EXTINF:-1 tvg-id="CumbiaMix.ar" tvg-name="Cumbia Mix" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" tvg-country="AR" tvg-language="spa" group-title="Music" nexus-score="100",Cumbia Mix (720p)
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-id="ElSolNetworkTV.ec" tvg-name="El Sol Network TV" tvg-logo="https://i.imgur.com/TIH3zlP.png" tvg-country="EC" tvg-language="spa" group-title="Music" nexus-score="100",El Sol Network TV (1080p)
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+#EXTINF:-1 tvg-id="FMTV.uk" tvg-name="FMTV" tvg-logo="https://i.imgur.com/vPxvbVv.png" tvg-country="UK" tvg-language="spa" group-title="Music" nexus-score="100",FMTV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="InfinitaTV.ec" tvg-name="Infinita TV" tvg-logo="https://i.imgur.com/1nHxdkR.png" tvg-country="EC" tvg-language="spa" group-title="Music" nexus-score="100",Infinita TV (1080p)
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="IQChannel.cr" tvg-name="IQ Channel" tvg-logo="https://i.imgur.com/hwuaomt.png" tvg-country="CR" tvg-language="spa" group-title="Music" nexus-score="100",IQ Channel (720p)
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="LaElegidaTelevision.uy" tvg-name="La Elegida Television" tvg-logo="https://i.imgur.com/zdrbjDc.png" tvg-country="UY" tvg-language="spa" group-title="Music" nexus-score="100",La Elegida Television
+https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaMoradaRadioTV.co" tvg-name="La Morada Radio TV" tvg-logo="https://i.imgur.com/E3wDEX5.png" tvg-country="CO" tvg-language="spa" group-title="Music" nexus-score="100",La Morada Radio TV (720p)
+https://movil.ejeserver.com/live/lamoradatv.m3u8
+#EXTINF:-1 tvg-id="LosAngelesTVRadio.py" tvg-name="Los Angeles TV Radio" tvg-logo="https://i.imgur.com/CaNdkpJ.jpeg" tvg-country="PY" tvg-language="spa" group-title="Music" nexus-score="100",Los Angeles TV Radio
+https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
+#EXTINF:-1 tvg-id="MaimonTVCanal3.do" tvg-name="Maimon TV Canal 3" tvg-logo="https://i.imgur.com/twldaaC.png" tvg-country="DO" tvg-language="spa" group-title="Music" nexus-score="100",Maimon TV Canal 3 (720p)
+https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
+#EXTINF:-1 tvg-id="MasFM.ar" tvg-name="Mas FM" tvg-logo="https://i.imgur.com/TJ4gWQM.png" tvg-country="AR" tvg-language="spa" group-title="Music" nexus-score="100",Mas FM (720p)
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-id="Mas23TV.pa" tvg-name="Mas23 TV" tvg-logo="https://i.imgur.com/y0h8dlX.png" tvg-country="PA" tvg-language="spa" group-title="Music" nexus-score="100",Mas23 TV
+https://movil.ejeserver.com/live/mas23tv.m3u8
+#EXTINF:-1 tvg-id="MasMusicaFM.co" tvg-name="MasMusica FM" tvg-logo="https://i.imgur.com/tCg7owd.png" tvg-country="CO" tvg-language="spa" group-title="Music" nexus-score="100",MasMusica FM (720p)
+https://video.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="MegaBox.ni" tvg-name="MegaBox" tvg-logo="https://i.imgur.com/JqaW7Ei.png" tvg-country="NI" tvg-language="spa" group-title="Music" nexus-score="83",MegaBox (720p)
+https://hdbox.chunklistv.com/live?stream=megabox
+#EXTINF:-1 tvg-id="MetaleitorTV.us" tvg-name="Metaleitor TV" tvg-logo="https://new.opencaster.com/uploads/logos/logo_14_1752798826.png" tvg-country="US" tvg-language="spa" group-title="Music" nexus-score="100",Metaleitor TV
+https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
+#EXTINF:-1 tvg-id="ParrandaVallenata.co" tvg-name="Parranda Vallenata" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" tvg-country="CO" tvg-language="spa" group-title="Music" nexus-score="100",Parranda Vallenata (720p)
+https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
+#EXTINF:-1 tvg-id="Pauta.cl" tvg-name="Pauta" tvg-logo="https://i.imgur.com/UAKLJAt.png" tvg-country="CL" tvg-language="spa" group-title="Music" nexus-score="100",Pauta (1080p)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioClasicaTV.bo" tvg-name="Radio Clasica TV" tvg-logo="https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png" tvg-country="BO" tvg-language="spa" group-title="Music" nexus-score="68",Radio Clasica TV (480p)
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioColmenar925FM.py" tvg-name="Radio Colmenar 92.5 FM" tvg-logo="https://i.imgur.com/LniNLO1.jpeg" tvg-country="PY" tvg-language="spa" group-title="Music" nexus-score="100",Radio Colmenar 92.5 FM
+https://tvdatta.com:3041/live/colmenarlive.m3u8
+#EXTINF:-1 tvg-id="RadioFantastica989FM.ec" tvg-name="Radio Fantastica 98.9 FM" tvg-logo="https://i.imgur.com/mpcIbrH.jpg" tvg-country="EC" tvg-language="spa" group-title="Music" nexus-score="99",Radio Fantastica 98.9 FM (1080p)
+http://190.107.232.9:8082/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="RadioSanCristobal887FM.py" tvg-name="Radio San Cristobal 88.7 FM" tvg-logo="https://i.imgur.com/zaJhBdj.png" tvg-country="PY" tvg-language="spa" group-title="Music" nexus-score="98",Radio San Cristobal 88.7 FM
+https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
+#EXTINF:-1 tvg-id="RetromusicaTelevision.cl" tvg-name="Retromusica Television" tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" tvg-country="CL" tvg-language="spa" group-title="Music" nexus-score="100",Retromusica Television (720p)
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" tvg-country="CO" tvg-language="spa" group-title="Music" nexus-score="100",Salsa Gorda Television (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-id="SolMusica.es" tvg-name="Sol Musica" tvg-logo="https://i.imgur.com/rbJrmPw.png" tvg-country="ES" tvg-language="spa" group-title="Music" nexus-score="100",Sol Musica (720p)
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-id="TeleDominicanaTV.do" tvg-name="Tele Dominicana TV" tvg-logo="https://dominicanchannels.com/wp-content/uploads/teledominicana.png" tvg-country="DO" tvg-language="spa" group-title="Music" nexus-score="98",Tele Dominicana TV (720p)
+https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TopicalMoonRD.do" tvg-name="Topical Moon RD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="spa" group-title="Music" nexus-score="100",Topical Moon RD (720p)
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-name="Tropical Moon Urban TV" tvg-logo="https://i.imgur.com/WcM7BP5.png" tvg-country="PA" tvg-language="spa" group-title="Music" nexus-score="100",Tropical Moon Urban TV
+https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+#EXTINF:-1 tvg-id="Tropicalia939FM.py" tvg-name="Tropicalia 93.9 FM" tvg-logo="https://i.imgur.com/oMML5Ue.png" tvg-country="PY" tvg-language="spa" group-title="Music" nexus-score="100",Tropicalia 93.9 FM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+#EXTINF:-1 tvg-id="TVExitos.do" tvg-name="TV Exitos" tvg-logo="https://i.imgur.com/ahz7X7u.png" tvg-country="DO" tvg-language="spa" group-title="Music" nexus-score="90",TV Exitos (720p)
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1 tvg-id="TVOMIX.es" tvg-name="TVOMIX" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" tvg-country="ES" tvg-language="spa" group-title="Music" nexus-score="100",TVOMIX (720p)
+https://cloud.tvomix.com/TVOMIX/index.m3u8
+#EXTINF:-1 tvg-id="TVONENicaragua.ni" tvg-name="TVONE Nicaragua" tvg-logo="https://i.imgur.com/FNk6rdz.png" tvg-country="NI" tvg-language="spa" group-title="Music" nexus-score="50",TVONE Nicaragua (720p)
+https://hdbox.chunklistv.com/live?stream=tvone
+#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" tvg-logo="https://i.imgur.com/OqfBMGy.png" tvg-country="PY" tvg-language="spa" group-title="News" nexus-score="100",ABC-TV Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-id="Guatevision.gt" tvg-name="Guatevision" tvg-logo="https://i.imgur.com/mbmHPnO.png" tvg-country="GT" tvg-language="spa" group-title="News" nexus-score="98",Guatevision (1080p)
+http://200.115.120.1:8000/play/ca066/index.m3u8
+#EXTINF:-1 tvg-id="MegaTV.py" tvg-name="Mega TV" tvg-logo="https://i.imgur.com/CaA7l86.png" tvg-country="PY" tvg-language="spa" group-title="News" nexus-score="100",Mega TV (1080p)
+https://www.desde-paraguay.com/mega.m3u8
+#EXTINF:-1 tvg-id="Momento24.co" tvg-name="Momento24" tvg-logo="https://i.imgur.com/kLy6w9e.jpeg" tvg-country="CO" tvg-language="spa" group-title="News" nexus-score="100",Momento24
+https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
+#EXTINF:-1 tvg-id="RadioAncon.pa" tvg-name="Radio Ancon" tvg-logo="https://i.imgur.com/xum8PNe.jpg" tvg-country="PA" tvg-language="spa" group-title="News" nexus-score="100",Radio Ancon (720p)
+https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+#EXTINF:-1 tvg-id="RDN.do" tvg-name="RDN" tvg-logo="https://i.imgur.com/x02CGSW.png" tvg-country="DO" tvg-language="spa" group-title="News" nexus-score="100",RDN (1080p)
+https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" tvg-logo="https://i.imgur.com/8FZsNyK.png" tvg-country="US" tvg-language="eng;spa" group-title="News" nexus-score="100",SC Currents (1080p)
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" tvg-country="PY" tvg-language="spa" group-title="News" nexus-score="100",Unicanal
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+#EXTINF:-1 tvg-id="VNP.pe" tvg-name="VNP" tvg-logo="https://i.imgur.com/TOnknEW.png" tvg-country="PE" tvg-language="spa" group-title="News" nexus-score="100",VNP
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" tvg-country="CO" tvg-language="spa" group-title="Outdoor" nexus-score="100",El Mundo del Campo (720p)
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-name="Amigos TV Chiquimula" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" tvg-country="GT" tvg-language="spa" group-title="Religious" nexus-score="100",Amigos TV Chiquimula (480p)
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1 tvg-id="Canal13Jujuy.ar" tvg-name="Canal 13 Jujuy" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" tvg-country="AR" tvg-language="spa" group-title="Religious" nexus-score="58",Canal 13 Jujuy (720p)
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:-1 tvg-id="ConectadosconDios.gt" tvg-name="Conectados con Dios" tvg-logo="https://i.imgur.com/Drn8nql.png" tvg-country="GT" tvg-language="spa" group-title="Religious" nexus-score="100",Conectados con Dios
+https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="CristoVisionCanal31.cr" tvg-name="Cristo Vision Canal 31" tvg-logo="https://i.imgur.com/CFXZ8j0.png" tvg-country="CR" tvg-language="spa" group-title="Religious" nexus-score="99",Cristo Vision Canal 31
+https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
+#EXTINF:-1 tvg-id="ElSembradorNuevaEvangelizacionESNE.us" tvg-name="El Sembrador Nueva Evangelizacion ESNE" tvg-logo="https://i.imgur.com/APhSi1Y.jpg" tvg-country="US" tvg-language="spa" group-title="Religious" nexus-score="96",El Sembrador Nueva Evangelizacion ESNE
+http://190.61.90.17:40000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" tvg-logo="https://i.imgur.com/KvpMbkd.png" tvg-country="ES" tvg-language="spa" group-title="Religious" nexus-score="100",EWTN Espana
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
+#EXTINF:-1 tvg-id="JosueTV.sv" tvg-name="Josue TV" tvg-logo="https://i.imgur.com/LNWGe1D.jpg" tvg-country="SV" tvg-language="spa" group-title="Religious" nexus-score="96",Josue TV (1080p)
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:-1 tvg-id="KSCE383.us" tvg-name="KSCE 38.3" tvg-logo="https://i.imgur.com/P0vZXU0.png" tvg-country="US" tvg-language="eng;spa" group-title="Religious" nexus-score="100",KSCE 38.3 (360p)
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+#EXTINF:-1 tvg-id="LLBNTVLatino.us" tvg-name="LLBN TV Latino" tvg-logo="https://i.imgur.com/WsOfy19.png" tvg-country="US" tvg-language="spa" group-title="Religious" nexus-score="100",LLBN TV Latino (480p)
+https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
+#EXTINF:-1 tvg-id="LuzDivinaTV.do" tvg-name="Luz Divina TV" tvg-logo="https://imgur.com/BHZw3PK.jpeg" tvg-country="DO" tvg-language="spa" group-title="Religious" nexus-score="100",Luz Divina TV
+https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
+#EXTINF:-1 tvg-id="MisionELTV.do" tvg-name="Mision ELTV" tvg-logo="https://i.imgur.com/hwC1stN.png" tvg-country="DO" tvg-language="spa" group-title="Religious" nexus-score="100",Mision ELTV (720p)
+https://rd.tvabierta.net/live/misioneltv.m3u8
+#EXTINF:-1 tvg-id="MTNATV.cl" tvg-name="MTNA TV" tvg-logo="https://i.imgur.com/v7SA92F.png" tvg-country="CL" tvg-language="spa" group-title="Religious" nexus-score="100",MTNA TV
+https://live.mtna.tv/hls/mtna/mtna.m3u8
+#EXTINF:-1 tvg-id="OlamMetroTV.ni" tvg-name="Olam Metro TV" tvg-logo="https://i.imgur.com/dDZnyUA.jpeg" tvg-country="NI" tvg-language="spa" group-title="Religious" nexus-score="100",Olam Metro TV (720p)
+https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
+#EXTINF:-1 tvg-id="PoderdeDiosTV.bo" tvg-name="Poder de Dios TV" tvg-logo="https://i.imgur.com/jUfRz3L.png" tvg-country="BO" tvg-language="spa" group-title="Religious" nexus-score="96",Poder de Dios TV (720p)
+https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
+#EXTINF:-1 tvg-id="RadioArmoniaTV.cl" tvg-name="Radio Armonia TV" tvg-logo="https://i.imgur.com/puWBnP3.png" tvg-country="CL" tvg-language="spa" group-title="Religious" nexus-score="100",Radio Armonia TV (720p)
+https://v2.tustreaming.cl/armoniamovil/index.m3u8
+#EXTINF:-1 tvg-id="RadioHogar.pa" tvg-name="Radio Hogar" tvg-logo="https://i.imgur.com/P4A1Zwl.jpg" tvg-country="PA" tvg-language="spa" group-title="Religious" nexus-score="100",Radio Hogar (720p)
+https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
+#EXTINF:-1 tvg-id="RadioTVElArcadelPacto.py" tvg-name="Radio TV El Arca del Pacto" tvg-logo="https://i.imgur.com/Oq0i3Rb.png" tvg-country="PY" tvg-language="spa" group-title="Religious" nexus-score="78",Radio TV El Arca del Pacto (1080p)
+https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
+#EXTINF:-1 tvg-id="SanJoseTV.cr" tvg-name="San Jose TV" tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" tvg-country="CR" tvg-language="spa" group-title="Religious" nexus-score="100",San Jose TV (1080p)
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionConsciente.es" tvg-name="Television Consciente" tvg-logo="https://i.imgur.com/6QVHKPw.png" tvg-country="ES" tvg-language="spa" group-title="Religious" nexus-score="100",Television Consciente (1080p)
+https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+#EXTINF:-1 tvg-id="TV45.ni" tvg-name="TV 45" tvg-logo="https://i.imgur.com/sI0msrn.png" tvg-country="NI" tvg-language="spa" group-title="Religious" nexus-score="88",TV 45 (720p)
+https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
+#EXTINF:-1 tvg-id="TVGetsemani.sv" tvg-name="TV Getsemani" tvg-logo="https://i.imgur.com/C9SJCcE.jpg" tvg-country="SV" tvg-language="spa" group-title="Religious" nexus-score="100",TV Getsemani (720p)
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:-1 tvg-id="TVUniversalUruguay.uy" tvg-name="TV Universal Uruguay" tvg-logo="https://i.imgur.com/KD4aZ7W.jpeg" tvg-country="UY" tvg-language="spa" group-title="Religious" nexus-score="100",TV Universal Uruguay
+https://stream.universal.org.uy/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.py" tvg-name="Cosmos TV" tvg-logo="https://i.imgur.com/dAMyExY.jpg" tvg-country="PY" tvg-language="spa" group-title="Science" nexus-score="98",Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Star_TVE_2026.svg" tvg-country="ES" tvg-language="spa" group-title="Series" nexus-score="100",TVE Star (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes" tvg-logo="https://i.imgur.com/yU5LqTL.png" tvg-country="DO" tvg-language="spa" group-title="Sports" nexus-score="68",CDN Deportes (720p)
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 tvg-id="CRTV.cl" tvg-name="CRTV" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" tvg-country="CL" tvg-language="spa" group-title="Sports" nexus-score="100",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us" tvg-name="ESPN Extra Latin America" tvg-logo="https://i.imgur.com/8P8N2Ov.png" tvg-country="US" tvg-language="spa" group-title="Sports" nexus-score="100",ESPN Extra Latin America (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-logo="https://i.imgur.com/SuVO9T7.png" tvg-country="PE" tvg-language="spa" group-title="Sports" nexus-score="100",Monterrico TV
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-name="Ovacion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" tvg-country="PE" tvg-language="spa" group-title="Sports" nexus-score="100",Ovacion TV (1080p)
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-country="ES" tvg-language="spa" group-title="Sports" nexus-score="100",Real Madrid TV (720p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-country="AR" tvg-language="spa" group-title="Sports" nexus-score="100",TNT Sports (576p)
+http://181.78.79.131:8000/play/a0mo
+#EXTINF:-1 tvg-id="OEPMTV.do" tvg-name="OEPM TV" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" tvg-country="DO" tvg-language="spa" group-title="Travel" nexus-score="99",OEPM TV (720p)
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Teletur.do" tvg-name="Teletur" tvg-logo="https://i.imgur.com/Ig4gR93.png" tvg-country="DO" tvg-language="spa" group-title="Travel" nexus-score="99",Teletur (720p)
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BVC.ar" tvg-name="BVC" tvg-logo="https://i.imgur.com/I06TSx0.png" tvg-country="AR" tvg-language="spa" group-title="Undefined" nexus-score="100",BVC
+https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
+#EXTINF:-1 tvg-id="CableImagenArmstrong.ar" tvg-name="Cable Imagen Armstrong" tvg-logo="https://i.imgur.com/U9NuJQC.png" tvg-country="AR" tvg-language="spa" group-title="Undefined" nexus-score="96",Cable Imagen Armstrong (720p)
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-name="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" tvg-country="PE" tvg-language="spa" group-title="Undefined" nexus-score="100",Cadena TV (720p)
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
+#EXTINF:-1 tvg-id="CampusTV.cl" tvg-name="CampusTV" tvg-logo="https://i.imgur.com/LvzLg33.png" tvg-country="CL" tvg-language="spa" group-title="Undefined" nexus-score="100",CampusTV (1080p)
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-name="Canal 3 Pinamar" tvg-logo="https://i.imgur.com/IABFaH1.png" tvg-country="AR" tvg-language="spa" group-title="Undefined" nexus-score="99",Canal 3 Pinamar
+http://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-name="Canal 4 San Juan" tvg-logo="https://i.imgur.com/MsCnwRA.png" tvg-country="AR" tvg-language="spa" group-title="Undefined" nexus-score="71",Canal 4 San Juan (720p)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal50Morteros.ar" tvg-name="Canal 50 Morteros" tvg-logo="https://i.imgur.com/IDhgBav.png" tvg-country="AR" tvg-language="spa" group-title="Undefined" nexus-score="100",Canal 50 Morteros
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+#EXTINF:-1 tvg-id="CanalDonana.es" tvg-name="Canal Donana" tvg-logo="https://i.imgur.com/0WrKIxm.png" tvg-country="ES" tvg-language="spa" group-title="Undefined" nexus-score="99",Canal Donana (720p)
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:-1 tvg-id="CanalSurvisionAlerce.cl" tvg-name="Canal Survision Alerce" tvg-logo="https://i.imgur.com/FknQYSp.png" tvg-country="CL" tvg-language="spa" group-title="Undefined" nexus-score="100",Canal Survision Alerce (720p)
+https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
+#EXTINF:-1 tvg-id="CeltaTV.ar" tvg-name="Celta TV" tvg-logo="https://i.imgur.com/rwoIF4w.png" tvg-country="AR" tvg-language="spa" group-title="Undefined" nexus-score="100",Celta TV (240p)
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:-1 tvg-id="CTV.us" tvg-name="CTV" tvg-logo="https://i.imgur.com/N5uiIJo.png" tvg-country="US" tvg-language="eng;spa" group-title="Undefined" nexus-score="100",CTV (480p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
+#EXTINF:-1 tvg-id="KpopMix.ar" tvg-name="Kpop Mix" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" tvg-country="AR" tvg-language="spa;eng" group-title="Undefined" nexus-score="100",Kpop Mix (720p)
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-id="RadioPopularTV.cl" tvg-name="Radio Popular TV" tvg-logo="https://i.imgur.com/71U0wTN.png" tvg-country="CL" tvg-language="spa" group-title="Undefined" nexus-score="100",Radio Popular TV
+https://tv.arkeo.cl:19360/8052/8052.m3u8
+#EXTINF:-1 tvg-id="RedADvenirTV.bo" tvg-name="RedADvenir TV" tvg-logo="https://i.imgur.com/970zAEn.png" tvg-country="BO" tvg-language="spa" group-title="Undefined" nexus-score="99",RedADvenir TV (360p)
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-name="Region TV Callao" tvg-logo="https://i.imgur.com/I4grcqk.png" tvg-country="PE" tvg-language="spa" group-title="Undefined" nexus-score="100",Region TV Callao (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="RNTelevision.pe" tvg-name="RN Television" tvg-logo="https://i.imgur.com/oFGiW7u.png" tvg-country="PE" tvg-language="spa" group-title="Undefined" nexus-score="69",RN Television (720p)
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-name="Senal Peru TV" tvg-logo="https://i.imgur.com/1q0R6R9.png" tvg-country="PE" tvg-language="spa" group-title="Undefined" nexus-score="99",Senal Peru TV (404p)
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/W2EUIL2.png" tvg-country="AR" tvg-language="spa" group-title="Undefined" nexus-score="96",Sicardi TV (720p)
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-name="Solar Television" tvg-logo="https://i.imgur.com/ufnWpUf.png" tvg-country="PE" tvg-language="spa" group-title="Undefined" nexus-score="99",Solar Television
+https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
+#EXTINF:-1 tvg-id="SoliveTV.ar" tvg-name="Solive TV" tvg-logo="https://i.imgur.com/dyUxugT.png" tvg-country="AR" tvg-language="spa" group-title="Undefined" nexus-score="100",Solive TV
+https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVinet.cl" tvg-name="T-Vinet" tvg-logo="https://i.imgur.com/KisHIpA.png" tvg-country="CL" tvg-language="spa" group-title="Undefined" nexus-score="100",T-Vinet (720p)
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-name="Teleceiba" tvg-logo="https://i.imgur.com/oPSfsvy.png" tvg-country="HN" tvg-language="spa" group-title="Undefined" nexus-score="100",Teleceiba (720p)
+https://teleceiba.com/stream/tlcb720.m3u8
+#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-name="TeleSUR Costa Rica" tvg-logo="https://i.imgur.com/KUpgeOf.png" tvg-country="CR" tvg-language="spa" group-title="Undefined" nexus-score="100",TeleSUR Costa Rica (720p)
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es" tvg-name="Television Canaria" tvg-logo="https://rtvc.es/archivos/2020/03/logo-mobilretina.png" tvg-country="ES" tvg-language="spa" group-title="Undefined" nexus-score="100",Television Canaria (1080p)
+https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-name="TV Bella Asuncion" tvg-logo="https://i.imgur.com/H69eLFW.png" tvg-country="PE" tvg-language="spa" group-title="Undefined" nexus-score="100",TV Bella Asuncion
+https://s2.tvdatta.com:3687/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ULosLagosTV.cl" tvg-name="U Los Lagos TV" tvg-logo="https://i.imgur.com/HxUZseV.png" tvg-country="CL" tvg-language="spa" group-title="Undefined" nexus-score="100",U Los Lagos TV (1080p)
+http://tv.ulagos.cl/web/live.m3u8
+#EXTINF:-1 tvg-id="UrbanMix.ar" tvg-name="Urban Mix" tvg-logo="https://tvomix.com/Logos/Urbanmix.png" tvg-country="AR" tvg-language="spa" group-title="Undefined" nexus-score="100",Urban Mix (720p)
+https://cloud.tvomix.com/URBANMIX/index.m3u8
+#EXTINF:-1 tvg-id="WKAQTV22.pr" tvg-name="WKAQ-TV 2.2" tvg-logo="https://i.imgur.com/TL6xy4y.png" tvg-country="PR" tvg-language="spa" group-title="Undefined" nexus-score="100",WKAQ-TV 2.2 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_540.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/CanalCBA.png" group-title="Generales",Canal de la Ciudad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
