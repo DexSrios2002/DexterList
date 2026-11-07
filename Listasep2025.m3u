@@ -12,8 +12,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1, Canal 10 res 2
 https://d3ipg70a550hmx.cloudfront.net/0_2/index.m3u8
 
-#EXTINF:-1, prueba
-https://cdn.savedly.net/zrvem8dg
 
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="por;spa" group-title="Animation" nexus-score="100",Cartoon Network Latin America (1080p)
